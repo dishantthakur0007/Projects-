@@ -26,25 +26,25 @@ const products = [
         id: 5, 
         name: "Leather Biker Jacket", 
         category: "Outerwear", 
-        price: 149.99, 
+        price: 1149.99, 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzpWvXFPVFi3sMUEHzWJQy4ORZ7Up6t3phhak5t6Yy9mtlU1CBQI5tzfI&s=10" 
     },
     { 
         id: 6, 
         name: "Oversized Knit Sweater", 
         category: "Tops", 
-        price: 79.99, 
+        price: 679.99, 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxhAW6ywRN-uigfmPa5VlKYlBNItPZ124I_Y4S01XF3EPTjwe1kol1tyup&s=10" 
     },
     { 
         id: 7, 
         name: "Silk Slip Midi Dress", 
         category: "Dresses", 
-        price: 95.00, 
+        price: 995.00, 
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3XeuwHpEn8sTxUBY1HPQOUvXyeCINSPROQS7fW0ubbwc2HzNbVNpdEcz&s=10" 
     }
     ,
-    { id: 8, name: "Tailored Wide-Leg Trousers", category: "Bottoms", price: 84.99, image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&auto=format&fit=crop" }
+    { id: 8, name: "Tailored Wide-Leg Trousers", category: "Bottoms", price: 784.99, image: "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=500&auto=format&fit=crop" }
 ];
 
     
